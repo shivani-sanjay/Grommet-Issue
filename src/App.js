@@ -92,7 +92,7 @@ function App() {
           align="start"
           overflow="auto"
         >
-          <DataTable pin="header" columns={columns} data={employeeData} />
+          <DataTable pin="header" columns={columns} data={employeeData} background={{ color: 'background' }}/>
         </Box>
       </Data>
     </Box>

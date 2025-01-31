@@ -5,6 +5,7 @@
   "dependencies": {
     "cra-template": "1.2.0",
     "grommet": "^2.44.0",
+    "grommet-theme-hpe": "^5.8.0",
     "prettier": "^3.4.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
